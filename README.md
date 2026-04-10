@@ -18,3 +18,5 @@ This project is a simple operating system prototype built from scratch. It demon
 make
 make run
 ```
+## Presentation Video
+Google Drive Link: https://drive.google.com/file/d/1WZKKjs5HJFa5RhkwJgUzlVwYt9gsO27_/view?usp=sharing
